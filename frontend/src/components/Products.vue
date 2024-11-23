@@ -26,7 +26,7 @@
 <script>
 import axios from 'axios';
 
-const endpoint = 'http://backend:8000';
+const endpoint = '/api';
 
 export default {
   name: 'ProductsList',
